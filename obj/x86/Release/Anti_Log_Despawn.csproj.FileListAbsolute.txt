@@ -1,0 +1,6 @@
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\Anti_Log_Despawn\Mod\Anti_Log_Despawn.dll
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\Anti_Log_Despawn\Mod\Anti_Log_Despawn.pdb
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\Anti_Log_Despawn\obj\x86\Release\Anti_Log_Despawn.csprojAssemblyReference.cache
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\Anti_Log_Despawn\obj\x86\Release\Anti_Log_Despawn.csproj.CoreCompileInputs.cache
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\Anti_Log_Despawn\obj\x86\Release\Anti_Log_Despawn.dll
+C:\Users\Hazard\Desktop\modapi_20180429_1.0.5.0\projects\TheForest\Anti_Log_Despawn\obj\x86\Release\Anti_Log_Despawn.pdb

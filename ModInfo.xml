@@ -1,0 +1,10 @@
+<Mod ID="Anti_Log_Despawn">
+  <Compatible>1.11b</Compatible>
+  <Name>
+    <EN>Anti Log Despawn</EN>
+  </Name>
+  <Description>
+    <EN>By Hazard, removes limit of spawned logs.</EN>
+  </Description>
+  <Version>1.0.0.0</Version>
+</Mod>
